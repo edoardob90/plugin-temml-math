@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "title": "Temml Math",
+  "description": "Add MathML support via Temml.",
+  "includes": [
+    "/example.css",
+    "/example.js",
+    "example.html"
+  ],
+}
