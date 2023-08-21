@@ -3,9 +3,9 @@
   var mathElements = document.getElementsByTagName("math");
 
   // Render all the math elements
-  for (const mathElem of mathElements) {
-    const text = mathElem.textContent;
+  for (let mathElem of [...mathElements]) {
+    const texToRender = mathElem.textContent;
     const displayMode = mathElem.classList.contains("display");
-    temml.render(text, mathElem, displayMode);
+    temml.render(texToRender, mathElem, { displayMode });
   }
 </script>
