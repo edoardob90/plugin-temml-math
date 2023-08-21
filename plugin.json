@@ -6,7 +6,7 @@
     "/Temml.woff2",
     "/Temml-Local.css",
     "/temml.min.js",
-    "header.html",
-    "temml-render.html"
+    "/temml-render.js",
+    "head.html"
   ]
 }
