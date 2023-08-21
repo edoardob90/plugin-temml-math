@@ -3,8 +3,10 @@
   "title": "Temml Math",
   "description": "Add MathML support via Temml.",
   "includes": [
-    "/example.css",
-    "/example.js",
-    "example.html"
-  ],
+    "/Temml.woff2",
+    "/Temml-Local.css",
+    "/temml.min.js",
+    "header.html",
+    "temml-render.html"
+  ]
 }
