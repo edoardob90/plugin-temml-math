@@ -4,6 +4,6 @@
   "description": "Add MathML support via Temml.",
   "includes": [
     "/css/Temml.woff2",
-    "/css/Temml-Local.css"
+    "/css/math.css"
   ]
 }
